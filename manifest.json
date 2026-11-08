@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "SkillHub",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "description": "在 ChatGPT 旁管理和使用本地 Skills。",
   "permissions": ["sidePanel", "storage", "unlimitedStorage", "activeTab", "clipboardWrite"],
   "host_permissions": ["https://chatgpt.com/*", "https://github.com/*", "https://api.github.com/*", "https://raw.githubusercontent.com/*"],
