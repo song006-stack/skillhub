@@ -12,6 +12,7 @@ coverage/
 .cache/
 dist/
 build/
+/release-artifacts/
 
 # Local configuration and secrets
 .env

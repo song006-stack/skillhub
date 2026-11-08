@@ -2,6 +2,16 @@
 
 SkillHub 是一个用于浏览和整理个人 Skill 的工具，提供 ChatGPT／Codex 桌面应用的 MCP 插件开发预览，以及 Chrome／Edge 浏览器扩展。它支持查看功能介绍、搜索、分类和收藏，并将简短的调用请求插入对话。
 
+## 下载
+
+前往 [v0.1.0 发布页面](https://github.com/song006-stack/skillhub/releases/tag/v0.1.0)下载浏览器扩展包或桌面插件包（链接将在 Release 发布后生效）。普通用户请先阅读 [中文安装指南](docs/安装指南-v0.1.0.md)。
+
+## 界面截图
+
+![SkillHub 侧边栏分类浏览的早期版本截图](docs/images/skillhub-sidebar-preview.png)
+
+*实际界面的早期版本截图，展示分类浏览；按钮布局及提示文字可能与当前版本不同。*
+
 ## 功能
 
 | 功能 | 桌面插件 | 浏览器扩展 |
