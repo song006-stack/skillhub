@@ -1,0 +1,32 @@
+# Dependencies and generated desktop bundles
+node_modules/
+/desktop-plugin/server.cjs
+/desktop-plugin/panel.html
+
+# Local packages, logs, caches and test artifacts
+*.zip
+*.tar.gz
+*.log
+coverage/
+.nyc_output/
+.cache/
+dist/
+build/
+
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+credentials.json
+*.local
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
